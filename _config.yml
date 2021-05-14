@@ -1,0 +1,40 @@
+# Site settings
+title:          Ex-Ords
+description:    " is a experience notes build by Jekyll theme with focus on content."
+url:            https://github.com/sidarmawan/blog.github.io
+
+# Author
+author:
+  name:         Sidarmawan
+  email:        sidarmawan8@gmail.com
+  url:          https://blog.sidar.my.id
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Related posts settings
+related_posts_section:
+  max_count:        5
+  min_common_tags:  2
+
+# Links to social media
+social:
+  email: sidarmawan8@gmail.com
+  github: https://github.com/sidarmawan
+  twitter: 
+  linkedin: https://www.linkedin.com/in/sidarmawan/
