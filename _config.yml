@@ -1,13 +1,19 @@
 # Site settings
+<<<<<<< HEAD
 title:          My_Note's
 description:    "this note is made so as not to be forgotten."
 url:            https://github.com/sidarmawan/blog.github.io
+=======
+title:          Ex-Ords
+description:    " is a experience notes build by Jekyll theme with focus on content."
+url:            https://github.com/sidarmawan.github.io
+>>>>>>> 0a4cdc30289595fce933953e86ba485689773234
 
 # Author
 author:
   name:         Sidarmawan
   email:        sidarmawan8@gmail.com
-  url:          https://blog.sidar.my.id
+  url:          https://github.com/sidarmawan.github.io
 
 # Build settings
 markdown:       kramdown
