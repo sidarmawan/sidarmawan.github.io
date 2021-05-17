@@ -46,9 +46,9 @@ url:            https://github.com/inelaah/rain
 
 # Author
 author:
-  name:         Inela Avdic Hukic
-  email:        inelaah@gmail.com
-  url:          https://inelaah.com
+  name:         
+  email:        
+  url:          
 
 # Build settings
 markdown:       kramdown
@@ -75,10 +75,10 @@ related_posts_section:
 
 # Links to social media
 social:
-  email: inelaah@gmail.com
-  github: https://github.com/inelaah
+  email: @gmail.com
+  github: https://github.com/
   twitter: https://twitter.com
-  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
+  linkedin: https://ba.linkedin.com/in/
 ```
 
 ## Favicons
@@ -130,4 +130,4 @@ Rain is licensed under the MIT license. Check the [LICENSE](LICENSE.md) file for
 
 ## Author
 
-[Inela Avdic Hukic](https://github.com/inelaah)
+[](https://github.com/)
