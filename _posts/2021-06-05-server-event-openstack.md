@@ -8,7 +8,7 @@ tags:
     - Openstack
 ---
 
-This record is to display the details of each event instance if there is an error in one of the events.
+<p>This record is to display the details of each event instance openstack if there is an error in one of the events.</p>
 
 
 <b>Server event list</b><br>
