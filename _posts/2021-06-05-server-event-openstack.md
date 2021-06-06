@@ -2,6 +2,10 @@
 layout: post
 title: "Get Detail Server Event Instance Openstack"
 author: "Sidar"
+categories:
+    - Blog
+tags:
+    - Openstack
 ---
 
 This record is to display the details of each event instance if there is an error in one of the events.
