@@ -40,7 +40,7 @@ sampai sini ketika menjalankan adb device sudah muncul list devicenya berarti ki
 ```bash
 $ adb shell
 SOV39:/ $ 
-#SOV39:/ $  pm uninstall -k --user 0 'nama.aplikasi' < contoh
+#SOV39:/ $  pm uninstall -k --user 0 'nama.aplikasi'
 SOV39:/ $  pm uninstall -k --user 0 'com.sonymobile.xperiaweather'
 Success
 ```
