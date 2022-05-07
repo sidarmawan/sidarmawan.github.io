@@ -11,7 +11,7 @@ tags:
 
 <p>Saya akan membagikan catatan pribadi saya, saat menghapus aplikasi bawaan smartphone tanpa root.</p><br>
 <p>Pertama kita bahas dulu apa itu <b>Bloatware?</b>.</p><br>
-<p>Bloatwware menurut saya adalah kumpulan aplikasi bawaan smartphone yang tidak kita butuhkan dan kita tidak bisa menghapusnya dari pengaturan aplikasi. sehingga aplikasi bloatware sendiri mengkonsumsi memory ram dan memory internal yang dimana semakin kesini aplikasi-aplikasi smartphone semakin besar ukurannya dan semakin banyak mengkonsumsi memory ram oleh karena itu saya igin menghapus aplikasi bloatware tanpa melakukan root pada smartphone</p>
+<p>Bloatware menurut saya adalah kumpulan aplikasi bawaan smartphone yang tidak kita butuhkan dan kita tidak bisa menghapusnya dari pengaturan aplikasi. sehingga aplikasi bloatware sendiri mengkonsumsi memory ram dan memory internal yang dimana semakin kesini aplikasi-aplikasi smartphone semakin besar ukurannya dan semakin banyak mengkonsumsi memory ram oleh karena itu saya igin menghapus aplikasi bloatware tanpa melakukan root pada smartphone</p>
 <p>oke langsung saja ke tutoriallnya </p><br>
 pada tutorian ini saya menggunakan sistem operasi linux (ubuntu) yang menurut saya sangat mudah dan kebetulan saya menggunakan sistem operasi linux (ubuntu) untuk daily dan kerja.
 
