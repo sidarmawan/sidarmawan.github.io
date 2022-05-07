@@ -32,10 +32,10 @@ $ adb device
 List of devices attached
 IDDEVICE  device
 ```
-<img src="images/adb-device.png"><br>
+<img src="https://github.com/sidarmawan/sidarmawan.github.io/blob/main/images/adb-device.png"><br>
 sampai sini ketika menjalankan adb device sudah muncul list devicenya berarti kita bisa lanjut untuk menghapus aplikasi.
 6. Buka aplikasi link2sd untuk mencari nama aplikasi yang akan dihapus, sebagai contoh saya akan menghapus aplikasi cuaca.
-<img src="images/link2sd.png"><br>
+<img src="https://github.com/sidarmawan/sidarmawan.github.io/blob/main/images/link2sd.png"><br>
 7. Buka terminal jalankan command
 ```bash
 $ adb shell
