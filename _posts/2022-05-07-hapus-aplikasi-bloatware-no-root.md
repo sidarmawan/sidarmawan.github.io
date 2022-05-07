@@ -25,7 +25,7 @@ sudo apt install -y adb
 4. Hubungkan smartphone ke laptop/pc<br>
 ketika ada pesan 
 - izinkan akses pencet YA
-- izinkan debugging USB? penet YA
+- izinkan debugging USB? pencet YA
 5. Buka terminal jalankan command 
 ```bash
 $ adb device
@@ -37,11 +37,10 @@ sampai sini ketika menjalankan adb device sudah muncul list devicenya berarti ki
 6. Buka aplikasi link2sd untuk mencari nama aplikasi yang akan dihapus, sebagai contoh saya akan menghapus aplikasi cuaca.
 ![link2sd](/images/link2sd.png)<br>
 7. Buka terminal jalankan command
-```
+```bash
 $ adb shell
 SOV39:/ $ 
 #SOV39:/ $  pm uninstall -k --user 0 'nama.aplikasi' < contoh
-
 SOV39:/ $  pm uninstall -k --user 0 'com.sonymobile.xperiaweather'
 Success
 ```
