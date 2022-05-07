@@ -36,8 +36,8 @@ IDDEVICE  device
 sampai sini ketika menjalankan adb device sudah muncul list devicenya berarti kita bisa lanjut untuk menghapus aplikasi.
 6. Buka aplikasi link2sd untuk mencari nama aplikasi yang akan dihapus, sebagai contoh saya akan menghapus aplikasi cuaca.
 ![link2sd](/images/link2sd.png)<br>
-7. Buka terminal jalankan command<br>
-```bash
+7. Buka terminal jalankan command
+```
 $ adb shell
 SOV39:/ $ 
 #SOV39:/ $  pm uninstall -k --user 0 'nama.aplikasi' < contoh
