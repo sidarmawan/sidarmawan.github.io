@@ -40,9 +40,10 @@ sampai sini ketika menjalankan adb device sudah muncul list devicenya berarti ki
 ```bash
 $ adb shell
 SOV39:/ $ 
-#SOV39:/ $  pm uninstall -k --user 0 'nama.aplikasi'
+#SOV39:/ $  pm uninstall -k --user 0 'nama.aplikasi' < contoh
 SOV39:/ $  pm uninstall -k --user 0 'com.sonymobile.xperiaweather'
 Success
 ```
 <br>
-jika muncul pesan succes berarti sudah berhasil menghapus aplikasi. mungkin sekian dulu untuk catatan dari saya semoga bermanfaat. 
+jika muncul pesan succes berarti sudah berhasil menghapus aplikasi untuk selanjut tinggal disesuaikan mau jika mau hapus aplikasi lagi tinggal disesuaikan nama aplikasinya.<br>
+Sekian dulu untuk catatan dari saya semoga bermanfaat. 
