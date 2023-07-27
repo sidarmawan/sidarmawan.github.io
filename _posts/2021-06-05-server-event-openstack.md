@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Get Detail Server Event Instance Openstack"
+title: "Get Detail Event Instance Openstack"
 author: "Sidar"
 categories:
     - Blog
