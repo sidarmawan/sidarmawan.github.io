@@ -1,18 +1,21 @@
 // Colors
-$default-color: #555;
-$default-shade: #353535;
-$default-tint: #aaa;
-$grey-1: #979797;
-$grey-2: #e5e5e5;
-$grey-3: #f9f9f9;
+$default-color: #374151; // Cool dark grey
+$default-shade: #111827; // Almost black
+$default-tint: #6B7280; // Muted grey
+$grey-1: #9CA3AF;
+$grey-2: #E5E7EB;
+$grey-3: #F3F4F6;
 $white: #fff;
-$blue: #4a9ae1;
-$shadow-color: rgba(0, 0, 0, .2);
-$code-color: #bf616a;
+$blue: #3B82F6; // Bright modern blue
+$background-color: #F9FAFB; // Very light grey background
+$shadow-color: rgba(0, 0, 0, 0.05);
+$shadow-hover: rgba(0, 0, 0, 0.1);
+$code-color: #EF4444;
 
 // Fonts
-$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
-$monospaced: Menlo, Monaco, monospace;
+$sans-serif: 'Inter', system-ui, -apple-system, sans-serif;
+$serif: 'Merriweather', Georgia, serif;
+$monospaced: 'Menlo', 'Monaco', monospace;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
