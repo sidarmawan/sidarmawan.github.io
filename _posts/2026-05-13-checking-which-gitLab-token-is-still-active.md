@@ -8,13 +8,13 @@ tags:
     - GitLab
     - Linux
 ---
-<p>While learning GitLab API testing, I ended up creating multiple personal access tokens for experiments and practice.</p><br>
+<p>While learning GitLab API testing, I ended up creating multiple personal access tokens for experiments and practice.</p>
 
-<p>After a while, I forgot which token was still active and which one was no longer being used 😅</p><br>
+<p>After a while, I forgot which token was still active and which one was no longer being used 😅</p>
 
-<p>The confusing part is that GitLab only shows the token list from the dashboard, but it does not show the actual token value again after it is created. So when I wanted to test the API again, I had several old tokens saved in terminal history and notes, but no idea which one still worked.</p></br>
+<p>The confusing part is that GitLab only shows the token list from the dashboard, but it does not show the actual token value again after it is created. So when I wanted to test the API again, I had several old tokens saved in terminal history and notes, but no idea which one still worked.</p>
 
-<p>Finally, I found a simple way to check whether a GitLab token is still valid or not.</p><br>
+<p>Finally, I found a simple way to check whether a GitLab token is still valid or not.</p>
 
 ## Check GitLab Token Using curl
 
