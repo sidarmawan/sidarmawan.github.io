@@ -25,7 +25,7 @@ curl -s --header "PRIVATE-TOKEN: glpat-xxxxxxxxxxxxxxxx" \
 https://gitlab.example.local/api/v4/user
 ```
 
-> The URL and token are masked for security reasons.
+> The URL and token are only examples and can be adjusted to match your actual GitLab URL and personal access token.
 
 If the token is still active, GitLab will return the user information in JSON format.
 
